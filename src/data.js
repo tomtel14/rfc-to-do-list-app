@@ -3,7 +3,7 @@ import { v4 as uuidv4 } from 'uuid';
 export const data = [
   {
     id: uuidv4(),
-    title: 'built using functional components',
+    title: 'built using function components',
     completed: false
   },
   {
